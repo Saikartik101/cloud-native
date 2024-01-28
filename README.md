@@ -1,6 +1,6 @@
-# Microservices Project
+# Cloud Native Banking System 
 
-This project implements a set of microservices following cloud-native principles, designed to be resilient and scalable. It incorporates various components and techniques to ensure efficient management, security, and performance of microservices architecture.
+This project implements a set of microservices including cards,accounds,loans following cloud-native principles, designed to be resilient and scalable. It incorporates various components and techniques to ensure efficient management, security, and performance of microservices architecture.
 
 ## Overview
 
