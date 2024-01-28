@@ -18,22 +18,4 @@ This project implements a set of microservices including cards,accounds,loans fo
 - **Helm**: Utilized Helm, a package manager for Kubernetes.
 - **Server-side Service Discovery and Load Balancing**: Implemented Kubernetes-based solutions for service discovery and load balancing to optimize microservices communication and performance.
 
-## Getting Started
 
-To get started with this project, follow these steps:
-
-1. Clone this repository.
-2. [Additional setup instructions, if any]
-3. [Instructions for running and testing the microservices]
-
-## Usage
-
-[Provide usage examples or instructions here, if applicable]
-
-## Contributing
-
-Contributions are welcome! Please refer to the [contribution guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
